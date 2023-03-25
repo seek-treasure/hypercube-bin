@@ -21,3 +21,10 @@ The following modifications were made to the model:
 2. Use a 0.8mm nozzle or larger for faster print time and to make the result bin more sturdy.
 3. Recommended layer height: 0.5mm+, but 0.3mm should also work.
 4. No supports are required for this print.
+
+## More Photos
+Fresh out of the printer
+![Hypercube Waste Bin](./images/fresh.jpg)
+
+Translucent in the sun
+![Hypercube Waste Bin](./images/translucent.jpg)
