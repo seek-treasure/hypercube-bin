@@ -28,3 +28,7 @@ Fresh out of the printer
 
 Translucent in the sun
 ![Hypercube Waste Bin](./images/translucent.jpg)
+
+## Also shared on
+[Thingiverse](https://www.thingiverse.com/thing:5931411)
+[Printables](https://www.printables.com/model/433180-hypercube-vase-bin)
